@@ -2,4 +2,4 @@
 
 # 画像の貼り付けテスト
 
-![pic1](https://bytebucket.org/ringo-apo/pictures/raw/fe3cc6f5ca037bb5ecb8cb570b29cd86238514b9/delete_repository.png)
+![test](https://user-images.githubusercontent.com/5728999/232428817-fc5595af-6023-4f28-8982-a04049cca57f.png)
